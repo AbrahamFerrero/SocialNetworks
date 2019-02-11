@@ -1,3 +1,13 @@
+Abraham Ferrero's notes: Here is the last part of the whole block of courses. This is just the first week, the Uni proposed a warm up
+project so you could start training for your own customized project later weeks on. 
+
+Every file where I had to code are in the src/graph package. I had to implement two classes from the scratch, which are GraphEdge.java 
+and GraphNode.java
+
+Also, I had to code the "TO DO" tasks in CapGraph.java
+
+There are some graders to test that everything was programmed properly. 
+
 /-------------------------------------------------------------------------
 / Starter Code for Capstone Project in the
 / Java Programming: Object Oriented Design of 
